@@ -61,4 +61,4 @@ function decodeColor( code ) {
 	}
 }
 
-decodeColor("x")
+decodeColor(1)
